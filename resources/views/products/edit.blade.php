@@ -8,7 +8,7 @@
                 <div class="card-header">Dashboard</div>
 
                 <div class="card-body">
-                    <form action="{{ route('products.update', ['product' => $product->id ]) }}" method="post">
+                    <form action="{{ route('products.update', ['product' => $product->id ]) }}" method="post" enctype="multipart/form-data">
                         {{ csrf_field() }}
                         {{ method_field('PUT') }}
                         <div class="form-group">
