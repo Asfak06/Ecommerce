@@ -1,4 +1,4 @@
-<p>The app is hosted here : <a href="">click</a> </p>
+<p>The app is hosted here : <a href="http://move-on-ecommerce.herokuapp.com/">click</a> </p>
 
 <p>API endpoints can be found in routes/api.php</p>
 
