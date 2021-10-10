@@ -1,5 +1,7 @@
 <p>The app is hosted here : <a href="http://move-on-ecommerce.herokuapp.com/">click</a> </p>
 
+ps: Images may not show as heroku refreshes media files randomly
+
 <p>API endpoints can be found in routes/api.php</p>
 
 
