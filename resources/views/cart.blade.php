@@ -41,7 +41,7 @@
 
                                                       <div class="cart-product__item">
                                                       <a href="#">
-                                                            <img src="{{ asset($pdt->model->image) }}" alt="product" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image">
+                                                            <img  style="width:100px;height:auto;" src="{{ asset($pdt->model->image) }}" alt="product" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image">
                                                       </a>
                                                       <div class="cart-product-content">
                                                             <h5 class="cart-product-title">{{ $pdt->name }}</h5>

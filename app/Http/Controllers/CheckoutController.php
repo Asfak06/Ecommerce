@@ -24,7 +24,7 @@ class CheckoutController extends Controller
         return view('checkout');
     }
   public function order(Request $request){
-    dd($request->all());
+    // dd($request->all());
     $products=$request->product_id;
     $quantity=$request->qty;
     for($i=0;$i < sizeof($products); $i++){

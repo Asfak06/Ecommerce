@@ -3,7 +3,7 @@
 <head lang="en">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>Asfak-ali2bd</title>
+    <title>Asfak-Live-tech</title>
 
     <link rel="stylesheet" type="text/css" href="{{ asset('app/css/fonts.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('app/css/crumina-fonts.css') }}">
@@ -92,7 +92,7 @@
         <div class="row pt120">
             <div class="col-lg-8 col-lg-offset-2">
                 <div class="heading align-center mb60">
-                    <h4 class="h1 heading-title">Ali2BD & MoveOn technologies</h4>
+                    <h4 class="h1 heading-title">Live technologies</h4>
                     <p class="heading-text">Buy products, and we ship to you.
                     </p>
                 </div>

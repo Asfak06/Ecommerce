@@ -60,7 +60,7 @@
                   <div class="">
                         <input style="background-color: white; border: solid; border-radius: 90;" type="text" name="phone" placeholder="Enter phone number">
                         <textarea style="background-color: white; border: solid; border-radius: 90;"  name="addr" id="" cols="30" rows="5" placeholder="Type your delivery address"></textarea>
-                        <button class="btn" style="color: black;" type="submit">Place Order</button>
+                        <button class="btn" style="color: black;" type="submit">Place Order(s)</button>
                   </div>
             </div>
       </form>
